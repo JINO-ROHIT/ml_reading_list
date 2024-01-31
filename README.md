@@ -12,4 +12,4 @@ You can find all the resources collated in a [notion page hosted here](https://w
 
 - [ ] **A Unified Approach to Interpreting Model Predictions**
   - [Link to Paper](https://arxiv.org/abs/1705.07874) 
-  - [Link to Notes] WIP
+  - [Link to Notes](https://www.notion.so/A-Unified-Approach-to-Interpreting-Model-Predictions-45622b4120ad44ce82345f1ddeaa523d)
