@@ -15,7 +15,7 @@ You can find all the resources collated in a [notion page hosted here](https://w
   - [Link to Notes](https://www.notion.so/A-Unified-Approach-to-Interpreting-Model-Predictions-45622b4120ad44ce82345f1ddeaa523d)
 
 - [x] **Class-Based n-gram Models of Natural Language**
-  - [Link to Paper]([https://arxiv.org/pdf/1312.6034.pdf](https://aclanthology.org/J92-4003.pdf)) 
+  - [Link to Paper](https://aclanthology.org/J92-4003.pdf)
   - [Link to Notes](https://www.notion.so/Class-Based-n-gram-Models-of-Natural-Language-1402ef7b3d494b589e7aa0f5e018a50f)
 
 - [x] **Efficient Estimation of Word Representations in Vector Space**
